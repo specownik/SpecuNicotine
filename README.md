@@ -1,3 +1,3 @@
 # SpecuNicotine
-Base-Nicotine Calculator<b>
+Base-Nicotine Calculator<br>
   xd
