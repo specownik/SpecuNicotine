@@ -1,3 +1,3 @@
 # SpecuNicotine
 Base-Nicotine Calculator<br>
-  xd
+![alt text](https://i.imgur.com/YBdTLaB.png)
